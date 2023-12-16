@@ -1,0 +1,41 @@
+.div1>h1{
+    color: black;
+    font-size: 64px;
+    font-family: Inter;
+    font-weight: 700;
+    text-decoration: underline;
+    word-wrap: break-word;
+}
+.div1>p{
+    color: black;
+font-size: 32px;
+font-family: Inter;
+font-weight: 400;
+word-wrap: break-word;
+}
+
+.section1>h1{
+    color: black;
+    font-size: 64px;
+    font-family: Inter;
+    font-weight: 700;
+    text-decoration: underline;
+    word-wrap: break-word
+}
+
+.section2>h1{
+    color: black;
+font-size: 64px;
+font-family: Inter;
+font-weight: 700;
+text-decoration: underline;
+word-wrap: break-word;
+}
+
+.section2>ol{
+    color: black;
+font-size: 40px;
+font-family: Inter;
+font-weight: 400;
+word-wrap: break-word;
+}
